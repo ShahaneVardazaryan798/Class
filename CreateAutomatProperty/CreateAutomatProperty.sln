@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAutomatProperty", "CreateAutomatProperty\CreateAutomatProperty.csproj", "{51079C77-E06F-49D5-938C-2584B0F17142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51079C77-E06F-49D5-938C-2584B0F17142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51079C77-E06F-49D5-938C-2584B0F17142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51079C77-E06F-49D5-938C-2584B0F17142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51079C77-E06F-49D5-938C-2584B0F17142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {080AAB17-3FFB-4B30-9698-C09C03BC5A0C}
+	EndGlobalSection
+EndGlobal
